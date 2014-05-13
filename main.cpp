@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
     QApplication a(argc, argv);
     MainWindow w;
     w.show();
-	// Hongyi bug fixed.
+	// Hongyi bug fixed. test review board
 
     return a.exec();
 }
